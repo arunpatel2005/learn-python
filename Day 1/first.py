@@ -24,11 +24,11 @@ for i in range(5, 101, 5):
 
 #Print the square of numbers from 1 to 10.
 for i in range(1, 11):
-    print(i**2)
+    print(i*i)
 
 #Print the cube of numbers from 1 to 10.
 for i in range(1, 11):
-    print(i**3)
+    print(i*i*i)
 
 #Print each character of your name using a loop.
 name = "Arun"
